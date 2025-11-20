@@ -29,7 +29,7 @@ ETL, EDA, Data Visualization (Matplotlib, Seaborn, Plotly), Kanban Board
 ETL, EDA, Feature Engineering, Cluster Analysis, Data Visualization (geopy, folium), API
 ---
 
-### 💡 What I enjoy
+### What I enjoy
 Turning messy data into clean insights.  
 Building dashboards people actually use.  
 Automating processes so teams can work smarter, not harder.
