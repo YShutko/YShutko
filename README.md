@@ -11,10 +11,10 @@ Git · GitHub · Jupyter Notebook
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 
-#### 🔹 Spotify Track Analysis — EDA + ML 
-Insights into audio features, popularity, regression & clustering.
+#### Spotify Track Analysis
+
 
 #### Fitness patterns and performance analysis
 ETL, EDA, Feature Engineering, Classification, Data Visualization (Matplotlib, Seaborn, Plotly), DAX, PowerBI, Kanban Board
