@@ -14,7 +14,7 @@ Git · GitHub · Jupyter Notebook
 ### Featured Projects
 
 #### Spotify Track Analysis
-
+ETL, EDA, Feature Engineering, Data Visualization (Matplotlib, Seaborn), ML (Linear Regression, Random Forest, XGBoost), interactive prediction tools (ipywidgets, gradio), Streamlit App "Spotify Popularity App" with deployment on HuggingFace
 
 #### Fitness patterns and performance analysis
 ETL, EDA, Feature Engineering, Classification, Data Visualization (Matplotlib, Seaborn, Plotly), DAX, PowerBI, Kanban Board
@@ -27,6 +27,7 @@ ETL, EDA, Data Visualization (Matplotlib, Seaborn, Plotly), Kanban Board
 
 #### The Battle of the Neighborhoods
 ETL, EDA, Feature Engineering, Cluster Analysis, Data Visualization (geopy, folium), API
+
 ---
 
 ### What I enjoy
