@@ -13,7 +13,7 @@ Git · GitHub · Jupyter Notebook
 
 ### Featured Projects
 
-#### Spotify Track Analysis
+#### Spotify track analysis and popularity prediction
 ETL, EDA, Feature Engineering, Data Visualization (Matplotlib, Seaborn), ML (Linear Regression, Random Forest, XGBoost), interactive prediction tools (ipywidgets, gradio), Streamlit App "Spotify Popularity App" with deployment on HuggingFace
 
 #### Fitness patterns and performance analysis
