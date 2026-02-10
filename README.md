@@ -13,6 +13,10 @@ Git · GitHub · Jupyter Notebook
 
 ### Featured Projects
 
+#### Rain prediction in Canberra
+ETL, EDA, Data Visualization, Models: **Logistic Regression** (baseline), **Logistic Regression with GridSearchCV** (tuned), **K-Nearest Neighbors (KNN)**, **KNN with GridSearchCV** (tuned), **Decision Tree**, **Decision Tree with GridSearchCV** (tuned)
+
+
 #### House Price Prediction - Kansas City Housing Dataset
 ETL, EDA, Data Visualization, Linear regression models: Polynomial and regularized regression (Ridge), Model evaluation metrics (MSE, RMSE, R²)
 
