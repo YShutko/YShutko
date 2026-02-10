@@ -14,8 +14,7 @@ Git · GitHub · Jupyter Notebook
 ### Featured Projects
 
 #### House Price Prediction - Kansas City Housing Dataset
-ETL, EDA, Data Visualization, Linear regression models: Polynomial and regularized regression (Ridge, Lasso), Model evaluation metrics (MSE, RMSE, R²),
-Bias-variance tradeoff
+ETL, EDA, Data Visualization, Linear regression models: Polynomial and regularized regression (Ridge), Model evaluation metrics (MSE, RMSE, R²)
 
 #### Spotify track analysis and popularity prediction
 ETL, EDA, Feature Engineering, Data Visualization (Matplotlib, Seaborn), ML (Linear Regression, Random Forest, XGBoost), interactive prediction tools (ipywidgets, gradio), Streamlit App "Spotify Popularity App" with deployment on HuggingFace
