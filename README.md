@@ -22,7 +22,7 @@ Based in Germany | Open to opportunities in Data & Automation
 
 ### Featured Projects
 
-#### [US Pollution Analysis](https://github.com/YShutko/in_process_US_pollution_analysis) *(in progress)*
+#### [US Pollution Analysis](https://github.com/YShutko/in_process_US_pollution_analysis) 
 End-to-end analysis of ~1.4 million EPA air quality measurements across the US covering NO₂, SO₂, CO, and ozone. Pipeline covers ETL (Parquet conversion, geocoding, unit standardization, AQI recalculation), EDA, and four ML tasks: regression to predict ozone concentration, multi-class AQI classification, feature importance analysis, and anomaly detection via Isolation Forest. Identified clear seasonal and geographic pollution patterns and significant cross-pollutant relationships.
 
 #### [Spotify Track Analysis and Popularity Prediction](https://github.com/YShutko/spotify_track_analysis_and_prediction)
