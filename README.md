@@ -61,4 +61,4 @@ Turning messy data into clean insights. Building dashboards people actually use.
 - GitHub: [github.com/YShutko](https://github.com/YShutko)
 - LinkedIn: [Yulia Shutko](https://www.linkedin.com/in/yulia-shutko-a73193161/)
 
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyour-username
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYShutko
