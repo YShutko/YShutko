@@ -62,4 +62,4 @@ Turning messy data into clean insights. Building dashboards people actually use.
 - LinkedIn: [Yulia Shutko](https://www.linkedin.com/in/yulia-shutko-a73193161/)
 
 ![](https://komarev.com/ghpvc/?username=YShutko&color=blueviolet)
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYShutko)
+
