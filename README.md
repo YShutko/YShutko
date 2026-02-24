@@ -47,7 +47,7 @@ Team hackathon project analyzing pricing patterns across 205 cars. Confirmed tha
 EDA-focused analysis of credit card customer churn. Key finding: inactivity (months inactive) is the strongest behavioral churn predictor, while demographic features alone show limited predictive power. Churn is concentrated almost entirely in Blue cardholders. Used difference heatmaps and interactive Plotly visualizations to surface insights for retention strategy.
 
 #### [The Battle of the Neighborhoods](https://github.com/YShutko/IBM_the_battle_of_neighborhoods)
-IBM Data Science capstone using the Foursquare API to analyze and cluster city neighborhoods by venue category and frequency. Applied KMeans clustering and geospatial visualization with geopy and Folium to generate location-based business insights.
+IBM Data Science capstone using the Google Places API to analyze and cluster city neighborhoods by venue category and frequency. Applied KMeans clustering and geospatial visualization with geopy and Folium to generate location-based business insights.
 
 ---
 
