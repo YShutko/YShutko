@@ -16,11 +16,24 @@ Based in Germany | Open to opportunities in Data & Automation
 
 **Deployment & Apps:** Streamlit, Gradio, HuggingFace Spaces
 
-**Platforms:** Pega Platform (Constellation, App Studio, Dev Studio, Decisioning)
+**Mobile Development**: Flutter, FlutterFlow, Android (Google Play), ios (App Store, coming soon)
+
+**Backend & Cloud**: Firebase (Firestore, Auth, Storage, Cloud Functions, FCM), Google Cloud (Vertex AI, europe-west3), Python Cloud Functions, REST APIs, SMTP
+
+**AI & LLM**: Vertex AI Gemini 2.5 Flash, Prompt Engineering, RAG, Structured JSON Output, Multimodal Input (image + text)
+
+**Platforms:** Pega Platform (Constellation, App Studio, Dev Studio, Decisioning),  RevenueCat, IONOS
+
+**Architecture & Security**: DSGVO/GDPR-compliant architecture, Firestore Security Rules, Firebase Auth, JWT, Secret Manager, EU-only data processing
 
 ---
 
 ### Featured Projects
+
+#### [Maitally — AI-powered Document Assistant](https://github.com/YShutko/Maitally_App)
+*(Co-Founder & Lead Developer — Mobile App, currently in Internal Testing on Google Play)*
+
+AI-powered Flutter app for the German market that helps users manage official letters and bureaucratic documents (Behördenbriefe). Users scan or upload documents, which are analysed by Gemini 2.5 Flash (Vertex AI) — the app extracts key information, generates summaries, identifies deadlines, creates actionable todos and enables AI chat about the document content. Built with full DSGVO/GDPR compliance: all data processed exclusively in EU (europe-west3, Frankfurt), original photos deleted immediately after analysis. Backend powered by Python Cloud Functions on Firebase, with biometric authentication, push notifications, multi-language support and subscription management via RevenueCat.
 
 #### [US Pollution Analysis](https://github.com/YShutko/in_process_US_pollution_analysis) 
 End-to-end analysis of ~1.4 million EPA air quality measurements across the US covering NO₂, SO₂, CO, and ozone. Pipeline covers ETL (Parquet conversion, geocoding, unit standardization, AQI recalculation), EDA, and four ML tasks: regression to predict ozone concentration, multi-class AQI classification, feature importance analysis, and anomaly detection via Isolation Forest. Identified clear seasonal and geographic pollution patterns and significant cross-pollutant relationships.
