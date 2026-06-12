@@ -16,7 +16,7 @@ Based in Germany | Open to opportunities in Data & Automation
 
 **Deployment & Apps:** Streamlit, Gradio, HuggingFace Spaces
 
-**Mobile Development**: Flutter, FlutterFlow, Android (Google Play), ios (App Store, coming soon)
+**Mobile Development**: Flutter, FlutterFlow, Android (Google Play), iOS (App Store, coming soon)
 
 **Backend & Cloud**: Firebase (Firestore, Auth, Storage, Cloud Functions, FCM), Google Cloud (Vertex AI, europe-west3), Python Cloud Functions, REST APIs, SMTP
 
