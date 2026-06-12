@@ -22,7 +22,7 @@ Based in Germany | Open to opportunities in Data & Automation
 
 **AI & LLM**: Vertex AI Gemini 2.5 Flash, Prompt Engineering, RAG, Structured JSON Output, Multimodal Input (image + text)
 
-**Platforms:** Pega Platform (Constellation, App Studio, Dev Studio, Decisioning),  RevenueCat, IONOS
+**Platforms:** Pega Platform (Constellation, App Studio, Dev Studio, Decisioning),  RevenueCat
 
 **Architecture & Security**: DSGVO/GDPR-compliant architecture, Firestore Security Rules, Firebase Auth, JWT, Secret Manager, EU-only data processing
 
